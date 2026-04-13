@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachiya</h1>
 <h3 align="center">Bodybuilder💪</h3>
-<h4 align="center">S:110 kg　B:95 kg　D:130 kg</h4>
+<h4 align="center">S:110 kg　B:100 kg　D:140 kg</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
